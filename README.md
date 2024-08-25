@@ -1,7 +1,5 @@
 # Stock-Price-Analysis
 
-# Stock Price Analysis
-
 ## Overview
 
 Welcome to the Stock Price Analysis! This repository contains the code and analysis for my data analysis project. The project involves analyzing historical stock price data, visualizing trends, and developing a forecasting model using Python and data science techniques.
